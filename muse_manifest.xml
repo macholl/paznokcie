@@ -1,0 +1,198 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1524603686748">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4168859860" ref="index:kontakt:cennik:oferta"/>
+    <file name="index.css" crc="3767067783" ref="index"/>
+    <file name="kontakt.css" crc="422433320" ref="kontakt"/>
+    <file name="cennik.css" crc="427640542" ref="cennik"/>
+    <file name="oferta.css" crc="4069517860" ref="oferta"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:oferta:cennik:kontakt"/>
+    <file name="museutils.js" crc="340535759" ref="index:oferta:cennik:kontakt"/>
+    <file name="whatinput.js" crc="86476730" ref="index:oferta:cennik:kontakt"/>
+    <file name="museconfig.js" crc="310584261" ref="index:oferta:cennik:kontakt"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:oferta:cennik:kontakt"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:oferta:cennik:kontakt"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:oferta:cennik:kontakt"/>
+    <file name="webpro.js" crc="4059564322" ref="index:oferta"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:oferta"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:oferta"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:oferta"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:oferta:cennik:kontakt"/>
+    <file name="require.js" crc="7928878" ref="index:oferta:cennik:kontakt"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-photo-457702.jpg" crc="102645592" ref="index:oferta:cennik:kontakt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cennik" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="oferta" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="fashion-girl-makeup-paint.jpg" crc="4277537356" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="3936421572" seo="true" ref="index:oferta">
+      <caption webpage="index" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:oferta"/>
+    <file name="road.jpg" crc="3870041364" seo="true" ref="index:oferta">
+      <caption webpage="index" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="48470008" seo="true" ref="index:oferta">
+      <caption webpage="index" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="cactus60x45.jpg" crc="4196736966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road60x45.jpg" crc="4293851619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees60x45.jpg" crc="221420560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:oferta"/>
+    <file name="logo_bar.png" crc="44341994" seo="true" ref="index:oferta:cennik:kontakt">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cennik" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="pexels-photo-361754.jpg" crc="3781976570" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="chameleon_holo_small-crop-u823.jpg" crc="3791813594" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="mix_small-crop-u1772.jpg" crc="213032719" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="holo_small-crop-u1792.jpg" crc="348624571" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="czerwone_small-crop-u1812.jpg" crc="3918040646" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="mirror_small-crop-u1832.jpg" crc="4018132776" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="chameleon_small-crop-u1852.jpg" crc="3885430547" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="cekiny_realac_small-crop-u1872.jpg" crc="69064944" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="baby_boomer_small-crop-u1892.jpg" crc="383078136" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="chameleon_holo_small-crop-u832.jpg" crc="428600289" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="mix_small-crop-u1778.jpg" crc="144897809" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="holo_small-crop-u1798.jpg" crc="4245106489" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="czerwone_small-crop-u1818.jpg" crc="304507394" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="mirror_small-crop-u1838.jpg" crc="71077360" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="chameleon_small-crop-u1858.jpg" crc="152801314" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="cekiny_realac_small-crop-u1878.jpg" crc="367536464" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="baby_boomer_small-crop-u1898.jpg" crc="4239718687" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="haircut-834280_1920.jpg" crc="364065692" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="fryzjer1-crop-u1046.jpg" crc="448419394" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="fryzjer1-crop-u1060.jpg" crc="4144036" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="pexels-photo-799420.jpg" crc="48721767" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="img_20161115_181254a-crop-u1354.jpg" crc="283555043" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="madison 3.jpg" crc="109772955" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="madison 4.jpg" crc="321210892" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="okoasia.jpg" crc="21265674" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 69.jpg" crc="4104446499" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 72.jpg" crc="3965026510" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 77.jpg" crc="4225510992" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 81.jpg" crc="4287095083" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 95-crop-u2141.jpg" crc="96828096" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="img_20161115_181254a-crop-u1362.jpg" crc="34920601" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="madison 360x45.jpg" crc="270948597" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="madison 460x45.jpg" crc="297736488" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="okoasia60x45.jpg" crc="3847612638" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 6960x46.jpg" crc="237625359" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 7260x46.jpg" crc="274396840" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 7760x45.jpg" crc="4217356997" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 8160x45.jpg" crc="101209192" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="post 95-crop-u2147.jpg" crc="4145361184" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="img_9543-crop-u1457.jpg" crc="475295246" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="img_9543-crop-u1445.jpg" crc="125092458" seo="true" ref="oferta">
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="15037253_775178329289727_8240167139965366597_n.jpg" crc="3796977646" seo="true" ref="cennik">
+      <caption webpage="cennik" alt=""/>
+      <caption webpage="cennik" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="462025675" seo="true" mt="1524603678087" redirect="true"/>
+  <file name="oferta.html" crc="64286402" seo="true" mt="1524603680824" redirect="true"/>
+  <file name="cennik.html" crc="346452486" seo="true" mt="1524603678086" redirect="true"/>
+  <file name="kontakt.html" crc="274692216" seo="true" mt="1524603678086" redirect="true"/>
+</manifest>
