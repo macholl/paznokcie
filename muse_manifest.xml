@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1524603686748">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1524949378186">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4168859860" ref="index:kontakt:cennik:oferta"/>
-    <file name="index.css" crc="3767067783" ref="index"/>
-    <file name="kontakt.css" crc="422433320" ref="kontakt"/>
-    <file name="cennik.css" crc="427640542" ref="cennik"/>
-    <file name="oferta.css" crc="4069517860" ref="oferta"/>
+    <file name="master_a-master.css" crc="4235286542" ref="index:kontakt:cennik:oferta"/>
+    <file name="index.css" crc="3963859090" ref="index"/>
+    <file name="kontakt.css" crc="3822723729" ref="kontakt"/>
+    <file name="cennik.css" crc="17697680" ref="cennik"/>
+    <file name="oferta.css" crc="237920653" ref="oferta"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:oferta:cennik:kontakt"/>
@@ -25,10 +25,10 @@
   <folder name="images">
     <file name="pexels-photo-457702.jpg" crc="102645592" ref="index:oferta:cennik:kontakt">
       <caption webpage="index" alt=""/>
+      <caption webpage="oferta" alt=""/>
+      <caption webpage="oferta" alt=""/>
       <caption webpage="cennik" alt=""/>
       <caption webpage="kontakt" alt=""/>
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="oferta" alt=""/>
     </file>
     <file name="fashion-girl-makeup-paint.jpg" crc="4277537356" ref="index">
       <caption webpage="index" alt=""/>
@@ -58,9 +58,9 @@
     <file name="loading.gif" crc="3815509949" ref="index:oferta"/>
     <file name="logo_bar.png" crc="44341994" seo="true" ref="index:oferta:cennik:kontakt">
       <caption webpage="index" alt=""/>
+      <caption webpage="oferta" alt=""/>
       <caption webpage="cennik" alt=""/>
       <caption webpage="kontakt" alt=""/>
-      <caption webpage="oferta" alt=""/>
     </file>
     <file name="pexels-photo-361754.jpg" crc="3781976570" ref="oferta">
       <caption webpage="oferta" alt=""/>
@@ -191,8 +191,8 @@
       <caption webpage="cennik" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="462025675" seo="true" mt="1524603678087" redirect="true"/>
-  <file name="oferta.html" crc="64286402" seo="true" mt="1524603680824" redirect="true"/>
-  <file name="cennik.html" crc="346452486" seo="true" mt="1524603678086" redirect="true"/>
-  <file name="kontakt.html" crc="274692216" seo="true" mt="1524603678086" redirect="true"/>
+  <file name="index.html" crc="433540781" seo="true" mt="1524921033765" redirect="true"/>
+  <file name="oferta.html" crc="4057298576" seo="true" mt="1524920968280" redirect="true"/>
+  <file name="cennik.html" crc="34223533" seo="true" mt="1524921020602" redirect="true"/>
+  <file name="kontakt.html" crc="401910309" seo="true" mt="1524921005432" redirect="true"/>
 </manifest>
