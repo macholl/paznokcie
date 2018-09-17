@@ -2,7 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://paznokcie.pl/index.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://paznokcie.pl/cennik.html</loc>
+    <lastmod>2018-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/cennik1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/cennik2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://paznokcie.pl/kontakt.html</loc>
+    <lastmod>2018-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://paznokcie.pl/galeria.html</loc>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,24 +55,6 @@
     </image:image>
     <image:image>
       <image:loc>http://paznokcie.pl/images/trees60x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://paznokcie.pl/oferta.html</loc>
-    <lastmod>2018-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/cactus.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/road.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/trees.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
@@ -152,32 +167,20 @@
     <image:image>
       <image:loc>http://paznokcie.pl/images/post%2095-crop-u2147.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/img_9543-crop-u1457.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/img_9543-crop-u1445.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://paznokcie.pl/cennik.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <loc>http://paznokcie.pl/szkolenia.html</loc>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/15037253_775178329289727_8240167139965366597_n.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/img_9543-crop-u2384.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://paznokcie.pl/kontakt.html</loc>
-    <lastmod>2018-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
+      <image:loc>http://paznokcie.pl/images/img_9543-crop-u2380.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
