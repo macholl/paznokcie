@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1544578804707">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1544578995595">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="363756226" ref="index:kontakt:cennik:galeria:szkolenia:galeria-old-backup"/>
-    <file name="index.css" crc="3788370116" ref="index"/>
-    <file name="kontakt.css" crc="4006493073" ref="kontakt"/>
-    <file name="cennik.css" crc="91823693" ref="cennik"/>
-    <file name="galeria.css" crc="120412667" ref="galeria"/>
-    <file name="szkolenia.css" crc="517512647" ref="szkolenia"/>
-    <file name="galeria-old-backup.css" crc="75854757" ref="galeria-old-backup"/>
+    <file name="master_a-master.css" crc="3944146164" ref="index:kontakt:cennik:galeria:szkolenia:galeria-old-backup"/>
+    <file name="index.css" crc="267683365" ref="index"/>
+    <file name="kontakt.css" crc="3929715079" ref="kontakt"/>
+    <file name="cennik.css" crc="233454341" ref="cennik"/>
+    <file name="galeria.css" crc="3802951771" ref="galeria"/>
+    <file name="szkolenia.css" crc="3860011735" ref="szkolenia"/>
+    <file name="galeria-old-backup.css" crc="4209671968" ref="galeria-old-backup"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup"/>
@@ -30,11 +30,11 @@
     <file name="logo_bar.png" crc="44341994" seo="true" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup">
       <caption webpage="galeria" alt=""/>
       <caption webpage="kontakt" alt=""/>
-      <caption webpage="galeria-old-backup" alt=""/>
+      <caption webpage="szkolenia" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="cennik" alt=""/>
-      <caption webpage="szkolenia" alt=""/>
       <caption webpage="oferta" alt=""/>
+      <caption webpage="galeria-old-backup" alt=""/>
     </file>
     <file name="chameleon_holo_small-crop-u823.jpg" crc="144582665" seo="true" ref="galeria">
       <caption webpage="galeria" alt=""/>
@@ -244,10 +244,10 @@
       <caption webpage="galeria" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4076710597" seo="true" mt="1544577757112" redirect="true"/>
-  <file name="cennik.html" crc="3919632525" seo="true" mt="1544577757112" redirect="true"/>
-  <file name="kontakt.html" crc="294810180" seo="true" mt="1544577757112" redirect="true"/>
-  <file name="galeria.html" crc="3781329422" seo="true" mt="1544578753412" redirect="true"/>
-  <file name="szkolenia.html" crc="143377041" seo="true" mt="1544577757112" redirect="true"/>
-  <file name="galeria-old-backup.html" crc="393938901" seo="true" mt="1544577757124" redirect="true"/>
+  <file name="index.html" crc="3954132381" seo="true" mt="1544578983284" redirect="true"/>
+  <file name="cennik.html" crc="3905928372" seo="true" mt="1544578983284" redirect="true"/>
+  <file name="kontakt.html" crc="4289428073" seo="true" mt="1544578983284" redirect="true"/>
+  <file name="galeria.html" crc="3768254222" seo="true" mt="1544578983284" redirect="true"/>
+  <file name="szkolenia.html" crc="98838888" seo="true" mt="1544578983284" redirect="true"/>
+  <file name="galeria-old-backup.html" crc="4196821779" seo="true" mt="1544578983284" redirect="true"/>
 </manifest>
