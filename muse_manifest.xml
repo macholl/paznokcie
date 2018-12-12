@@ -1,219 +1,75 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1537194895832">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1544578804707">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3919659422" ref="index:kontakt:cennik:galeria:szkolenia"/>
-    <file name="index.css" crc="459226204" ref="index"/>
-    <file name="kontakt.css" crc="229569164" ref="kontakt"/>
-    <file name="cennik.css" crc="210922833" ref="cennik"/>
-    <file name="galeria.css" crc="4041695843" ref="galeria"/>
-    <file name="szkolenia.css" crc="4075366689" ref="szkolenia"/>
+    <file name="master_a-master.css" crc="363756226" ref="index:kontakt:cennik:galeria:szkolenia:galeria-old-backup"/>
+    <file name="index.css" crc="3788370116" ref="index"/>
+    <file name="kontakt.css" crc="4006493073" ref="kontakt"/>
+    <file name="cennik.css" crc="91823693" ref="cennik"/>
+    <file name="galeria.css" crc="120412667" ref="galeria"/>
+    <file name="szkolenia.css" crc="517512647" ref="szkolenia"/>
+    <file name="galeria-old-backup.css" crc="75854757" ref="galeria-old-backup"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cennik:kontakt:galeria:szkolenia"/>
-    <file name="museutils.js" crc="340535759" ref="index:cennik:kontakt:galeria:szkolenia"/>
-    <file name="whatinput.js" crc="86476730" ref="index:cennik:kontakt:galeria:szkolenia"/>
-    <file name="museconfig.js" crc="310584261" ref="index:cennik:kontakt:galeria:szkolenia"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:cennik:kontakt:galeria:szkolenia"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:cennik:kontakt:galeria:szkolenia"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:cennik:kontakt:galeria:szkolenia"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup"/>
+    <file name="museutils.js" crc="340535759" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup"/>
+    <file name="whatinput.js" crc="86476730" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup"/>
+    <file name="museconfig.js" crc="310584261" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup"/>
     <file name="webpro.js" crc="4059564322" ref="galeria:szkolenia"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="galeria:szkolenia"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="galeria:szkolenia"/>
     <file name="touchswipe.js" crc="4075097462" ref="galeria:szkolenia"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:cennik:kontakt:galeria:szkolenia"/>
-    <file name="require.js" crc="7928878" ref="index:cennik:kontakt:galeria:szkolenia"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup"/>
+    <file name="require.js" crc="7928878" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup"/>
   </folder>
   <folder name="images">
-    <file name="cactus.jpg" crc="3936421572" seo="true" ref="galeria">
-      <caption webpage="index" alt=""/>
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="galeria:szkolenia"/>
-    <file name="road.jpg" crc="3870041364" seo="true" ref="galeria">
-      <caption webpage="index" alt=""/>
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="trees.jpg" crc="48470008" seo="true" ref="galeria">
-      <caption webpage="index" alt=""/>
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="cactus60x45.jpg" crc="4196736966" seo="true" ref="galeria">
-      <caption webpage="index" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="road60x45.jpg" crc="4293851619" seo="true" ref="galeria">
-      <caption webpage="index" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="trees60x45.jpg" crc="221420560" seo="true" ref="galeria">
-      <caption webpage="index" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="galeria:szkolenia"/>
-    <file name="logo_bar.png" crc="44341994" seo="true" ref="index:cennik:kontakt:galeria:szkolenia">
-      <caption webpage="index" alt=""/>
+    <file name="logo_bar.png" crc="44341994" seo="true" ref="index:cennik:kontakt:galeria:szkolenia:galeria-old-backup">
       <caption webpage="galeria" alt=""/>
-      <caption webpage="cennik" alt=""/>
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="szkolenia" alt=""/>
       <caption webpage="kontakt" alt=""/>
-    </file>
-    <file name="chameleon_holo_small-crop-u823.jpg" crc="3875442321" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="mix_small-crop-u1772.jpg" crc="3896564261" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="holo_small-crop-u1792.jpg" crc="158247003" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="czerwone_small-crop-u1812.jpg" crc="126730578" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="mirror_small-crop-u1832.jpg" crc="112883726" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="chameleon_small-crop-u1852.jpg" crc="3984857402" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="cekiny_realac_small-crop-u1872.jpg" crc="4020721563" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="baby_boomer_small-crop-u1892.jpg" crc="5017143" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="chameleon_holo_small-crop-u832.jpg" crc="4257219732" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="mix_small-crop-u1778.jpg" crc="3824255971" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="holo_small-crop-u1798.jpg" crc="3992318112" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="czerwone_small-crop-u1818.jpg" crc="315530147" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="mirror_small-crop-u1838.jpg" crc="491943035" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="chameleon_small-crop-u1858.jpg" crc="3874267205" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="cekiny_realac_small-crop-u1878.jpg" crc="121861621" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="baby_boomer_small-crop-u1898.jpg" crc="136918417" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="fryzjer1-crop-u1046.jpg" crc="291641784" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="fryzjer1-crop-u1060.jpg" crc="4229117165" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="img_20161115_181254a-crop-u1354.jpg" crc="521172876" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="madison 3.jpg" crc="109772955" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="madison 4.jpg" crc="321210892" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="okoasia.jpg" crc="21265674" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 69.jpg" crc="4104446499" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 72.jpg" crc="3965026510" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 77.jpg" crc="4225510992" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 81.jpg" crc="4287095083" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 95-crop-u2141.jpg" crc="371979815" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="img_20161115_181254a-crop-u1362.jpg" crc="431439835" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="madison 360x45.jpg" crc="270948597" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="madison 460x45.jpg" crc="297736488" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="okoasia60x45.jpg" crc="3847612638" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 6960x46.jpg" crc="237625359" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 7260x46.jpg" crc="274396840" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 7760x45.jpg" crc="4217356997" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 8160x45.jpg" crc="101209192" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="post 95-crop-u2147.jpg" crc="399319027" seo="true" ref="galeria">
-      <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
-    </file>
-    <file name="marble-surface-wall-1323712blur_color.jpg" crc="85105783" ref="index:galeria:cennik:kontakt:szkolenia">
+      <caption webpage="galeria-old-backup" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="marble-surface-wall-1323712blur.jpg" crc="402801150" ref="index:galeria:cennik:kontakt:szkolenia">
-      <caption webpage="index" alt=""/>
-      <caption webpage="galeria" alt=""/>
       <caption webpage="cennik" alt=""/>
       <caption webpage="szkolenia" alt=""/>
-      <caption webpage="kontakt" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="chameleon_holo_small-crop-u823.jpg" crc="144582665" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="mix_small-crop-u1772.jpg" crc="317858674" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="holo_small-crop-u1792.jpg" crc="521588252" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="czerwone_small-crop-u1812.jpg" crc="4054958249" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="mirror_small-crop-u1832.jpg" crc="329796854" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="chameleon_small-crop-u1852.jpg" crc="121517005" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="cekiny_realac_small-crop-u1872.jpg" crc="103279331" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="baby_boomer_small-crop-u1892.jpg" crc="4069091352" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="oferta" alt=""/>
+    </file>
+    <file name="marble-surface-wall-1323712blur_color.jpg" crc="85105783" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="cennik1.jpg" crc="4165380624" seo="true" ref="cennik">
       <caption webpage="cennik" alt=""/>
@@ -227,10 +83,171 @@
     <file name="img_9543-crop-u2380.jpg" crc="125092458" seo="true" ref="szkolenia">
       <caption webpage="szkolenia" alt=""/>
     </file>
+    <file name="logo-paznokcie.png" crc="3934231219" seo="true" ref="index:galeria:cennik:kontakt:szkolenia:galeria-old-backup">
+      <caption webpage="index" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="cennik" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="szkolenia" alt=""/>
+      <caption webpage="galeria-old-backup" alt=""/>
+    </file>
+    <file name="chameleon_holo_small177x190.jpg" crc="4186738912" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mix_small177x190.jpg" crc="93985588" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="holo_small177x190.jpg" crc="4219032370" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="czerwone_small177x190.jpg" crc="4013980621" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cekiny_realac_small177x190.jpg" crc="487889760" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mirror_small177x190.jpg" crc="3970286530" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="chameleon_small177x190.jpg" crc="267696198" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="baby_boomer_small177x190.jpg" crc="3879664051" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="chameleon_holo_small-crop-u2901.jpg" crc="144582665" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mix_small-crop-u2903.jpg" crc="317858674" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="holo_small-crop-u2905.jpg" crc="521588252" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="czerwone_small-crop-u2907.jpg" crc="4054958249" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cekiny_realac_small-crop-u2909.jpg" crc="103279331" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mirror_small-crop-u2915.jpg" crc="329796854" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="chameleon_small-crop-u2911.jpg" crc="121517005" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="baby_boomer_small-crop-u2913.jpg" crc="4069091352" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="chameleon_holo_small-crop-u3093.jpg" crc="144582665" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mix_small-crop-u3103.jpg" crc="317858674" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="holo_small-crop-u3097.jpg" crc="521588252" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="czerwone_small-crop-u3099.jpg" crc="4054958249" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cekiny_realac_small-crop-u3095.jpg" crc="103279331" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mirror_small-crop-u3101.jpg" crc="329796854" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="chameleon_small-crop-u3091.jpg" crc="121517005" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="baby_boomer_small-crop-u3105.jpg" crc="4069091352" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="chameleon_holo_small-crop-u3443.jpg" crc="144582665" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mix_small-crop-u3445.jpg" crc="317858674" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="holo_small-crop-u3451.jpg" crc="521588252" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="czerwone_small-crop-u3449.jpg" crc="4054958249" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cekiny_realac_small-crop-u3441.jpg" crc="103279331" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mirror_small-crop-u3439.jpg" crc="329796854" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="chameleon_small-crop-u3453.jpg" crc="121517005" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="baby_boomer_small-crop-u3447.jpg" crc="4069091352" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="chameleon_holo_small-crop-u3772.jpg" crc="144582665" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mix_small-crop-u3780.jpg" crc="317858674" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="holo_small-crop-u3776.jpg" crc="521588252" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="czerwone_small-crop-u3774.jpg" crc="4054958249" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cekiny_realac_small-crop-u3768.jpg" crc="103279331" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mirror_small-crop-u3766.jpg" crc="329796854" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="chameleon_small-crop-u3770.jpg" crc="121517005" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="baby_boomer_small-crop-u3778.jpg" crc="4069091352" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4070193709" seo="true" mt="1537194207107" redirect="true"/>
-  <file name="cennik.html" crc="4082175586" seo="true" mt="1537194822216" redirect="true"/>
-  <file name="kontakt.html" crc="57964395" seo="true" mt="1537194334036" redirect="true"/>
-  <file name="galeria.html" crc="399351755" seo="true" mt="1537194851595" redirect="true"/>
-  <file name="szkolenia.html" crc="285101606" seo="true" mt="1537194638521" redirect="true"/>
+  <file name="index.html" crc="4076710597" seo="true" mt="1544577757112" redirect="true"/>
+  <file name="cennik.html" crc="3919632525" seo="true" mt="1544577757112" redirect="true"/>
+  <file name="kontakt.html" crc="294810180" seo="true" mt="1544577757112" redirect="true"/>
+  <file name="galeria.html" crc="3781329422" seo="true" mt="1544578753412" redirect="true"/>
+  <file name="szkolenia.html" crc="143377041" seo="true" mt="1544577757112" redirect="true"/>
+  <file name="galeria-old-backup.html" crc="393938901" seo="true" mt="1544577757124" redirect="true"/>
 </manifest>

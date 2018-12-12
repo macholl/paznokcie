@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://paznokcie.pl/index.html</loc>
-    <lastmod>2018-09-17</lastmod>
+    <lastmod>2018-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo-paznokcie.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://paznokcie.pl/cennik.html</loc>
-    <lastmod>2018-09-17</lastmod>
+    <lastmod>2018-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23,39 +26,27 @@
     <image:image>
       <image:loc>http://paznokcie.pl/images/cennik2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo-paznokcie.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://paznokcie.pl/kontakt.html</loc>
-    <lastmod>2018-09-17</lastmod>
+    <lastmod>2018-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo-paznokcie.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://paznokcie.pl/galeria.html</loc>
-    <lastmod>2018-09-17</lastmod>
+    <lastmod>2018-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/cactus.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/road.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/trees.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/cactus60x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/road60x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/trees60x45.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
     </image:image>
@@ -84,93 +75,132 @@
       <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u1892.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u832.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/logo-paznokcie.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/mix_small-crop-u1778.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/chameleon_holo_small177x190.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/holo_small-crop-u1798.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/mix_small177x190.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u1818.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/holo_small177x190.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u1838.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/czerwone_small177x190.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u1858.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/cekiny_realac_small177x190.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u1878.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/mirror_small177x190.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u1898.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/chameleon_small177x190.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/fryzjer1-crop-u1046.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/baby_boomer_small177x190.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/fryzjer1-crop-u1060.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u2901.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/img_20161115_181254a-crop-u1354.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/mix_small-crop-u2903.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/madison%203.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/holo_small-crop-u2905.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/madison%204.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u2907.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/okoasia.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u2909.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%2069.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u2915.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%2072.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u2911.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%2077.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u2913.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%2081.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u3093.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%2095-crop-u2141.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/mix_small-crop-u3103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/img_20161115_181254a-crop-u1362.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/holo_small-crop-u3097.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/madison%20360x45.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u3099.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/madison%20460x45.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u3095.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/okoasia60x45.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u3101.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%206960x46.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u3091.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%207260x46.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u3105.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%207760x45.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u3443.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%208160x45.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/mix_small-crop-u3445.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://paznokcie.pl/images/post%2095-crop-u2147.jpg</image:loc>
+      <image:loc>http://paznokcie.pl/images/holo_small-crop-u3451.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u3449.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u3441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u3439.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u3453.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u3447.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u3772.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/mix_small-crop-u3780.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/holo_small-crop-u3776.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u3774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u3768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u3766.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u3770.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u3778.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://paznokcie.pl/szkolenia.html</loc>
-    <lastmod>2018-09-17</lastmod>
+    <lastmod>2018-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -181,6 +211,21 @@
     </image:image>
     <image:image>
       <image:loc>http://paznokcie.pl/images/img_9543-crop-u2380.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo-paznokcie.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://paznokcie.pl/galeria-old-backup.html</loc>
+    <lastmod>2018-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo-paznokcie.png</image:loc>
     </image:image>
   </url>
 </urlset>
