@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1584307907167">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1584309362929">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="140417120" ref="kontakt:galeria-old-backup:galeria:index:szkolenia:cennik:oferta"/>
@@ -7,7 +7,7 @@
     <file name="galeria.css" crc="441268570" ref="galeria"/>
     <file name="index.css" crc="3911118596" ref="index"/>
     <file name="szkolenia.css" crc="383105283" ref="szkolenia"/>
-    <file name="cennik.css" crc="3919139269" ref="cennik"/>
+    <file name="cennik.css" crc="285174970" ref="cennik"/>
     <file name="oferta.css" crc="360567351" ref="oferta"/>
   </folder>
   <folder name="scripts">
@@ -26,19 +26,19 @@
   </folder>
   <folder name="images">
     <file name="logo.jpg" crc="3831520490" seo="true" ref="index:galeria:cennik:kontakt:szkolenia:galeria-old-backup:oferta">
-      <caption webpage="szkolenia" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="kontakt" alt=""/>
       <caption webpage="galeria" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="szkolenia" alt=""/>
       <caption webpage="galeria-old-backup" alt=""/>
       <caption webpage="cennik" alt=""/>
       <caption webpage="oferta" alt=""/>
     </file>
     <file name="logo_bar.png" crc="44341994" seo="true" ref="index:galeria:cennik:kontakt:szkolenia:galeria-old-backup:oferta">
-      <caption webpage="szkolenia" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="kontakt" alt=""/>
       <caption webpage="galeria" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="szkolenia" alt=""/>
       <caption webpage="galeria-old-backup" alt=""/>
       <caption webpage="cennik" alt=""/>
       <caption webpage="oferta" alt=""/>
@@ -260,7 +260,7 @@
   </folder>
   <file name="index.html" crc="31724562" seo="true" mt="1584307233530" redirect="true"/>
   <file name="galeria.html" crc="4093835197" seo="true" mt="1584307233530" redirect="true"/>
-  <file name="cennik.html" crc="271272260" seo="true" mt="1584307706528" redirect="true"/>
+  <file name="cennik.html" crc="4284214752" seo="true" mt="1584309242450" redirect="true"/>
   <file name="kontakt.html" crc="439943326" seo="true" mt="1584307233530" redirect="true"/>
   <file name="szkolenia.html" crc="192434268" seo="true" mt="1584307233530" redirect="true"/>
   <file name="galeria-old-backup.html" crc="4219239170" seo="true" mt="1584307233530" redirect="true"/>
