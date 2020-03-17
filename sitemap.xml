@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://paznokcie.pl/index.html</loc>
-    <lastmod>2020-03-15</lastmod>
+    <lastmod>2020-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://paznokcie.pl/galeria.html</loc>
-    <lastmod>2020-03-15</lastmod>
+    <lastmod>2020-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -55,8 +55,44 @@
     </image:image>
   </url>
   <url>
+    <loc>http://paznokcie.pl/kontakt.html</loc>
+    <lastmod>2020-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://paznokcie.pl/szkolenia.html</loc>
+    <lastmod>2020-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://paznokcie.pl/oferta.html</loc>
+    <lastmod>2020-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://paznokcie.pl/cennik.html</loc>
-    <lastmod>2020-03-15</lastmod>
+    <lastmod>2020-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -70,198 +106,6 @@
     </image:image>
     <image:image>
       <image:loc>http://paznokcie.pl/images/cennik1.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://paznokcie.pl/kontakt.html</loc>
-    <lastmod>2020-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/logo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://paznokcie.pl/szkolenia.html</loc>
-    <lastmod>2020-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/logo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://paznokcie.pl/galeria-old-backup.html</loc>
-    <lastmod>2020-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/logo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_holo_small177x190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mix_small177x190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/holo_small177x190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/czerwone_small177x190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/cekiny_realac_small177x190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mirror_small177x190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_small177x190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/baby_boomer_small177x190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u4309.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mix_small-crop-u4307.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/holo_small-crop-u4311.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u4303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u4305.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u4301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u4313.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u4299.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u4273.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mix_small-crop-u4267.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/holo_small-crop-u4265.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u4271.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u4277.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u4269.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u4279.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u4275.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u4368.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mix_small-crop-u4370.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/holo_small-crop-u4376.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u4380.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u4382.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u4372.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u4378.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u4374.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u4471.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mix_small-crop-u4463.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/holo_small-crop-u4467.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u4465.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u4461.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u4459.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u4469.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u4457.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_holo_small-crop-u4415.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mix_small-crop-u4411.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/holo_small-crop-u4409.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/czerwone_small-crop-u4417.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/cekiny_realac_small-crop-u4413.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/mirror_small-crop-u4405.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/chameleon_small-crop-u4407.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/baby_boomer_small-crop-u4403.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://paznokcie.pl/oferta.html</loc>
-    <lastmod>2020-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/logo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://paznokcie.pl/images/logo_bar.png</image:loc>
     </image:image>
   </url>
 </urlset>
