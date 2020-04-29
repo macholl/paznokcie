@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1588194337768">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paznokcie.pl" resolutions="1x" timestamp="1588194491232">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3926076648" ref="index:oferta:kontakt:galeria:cennik:o-nas"/>
-    <file name="index.css" crc="3964564846" ref="index"/>
-    <file name="oferta.css" crc="258972881" ref="oferta"/>
-    <file name="kontakt.css" crc="386525250" ref="kontakt"/>
-    <file name="galeria.css" crc="4050412989" ref="galeria"/>
-    <file name="cennik.css" crc="4149860061" ref="cennik"/>
-    <file name="o-nas.css" crc="452299788" ref="o-nas"/>
+    <file name="master_a-master.css" crc="3767653131" ref="index:oferta:kontakt:galeria:cennik:o-nas"/>
+    <file name="index.css" crc="3803171050" ref="index"/>
+    <file name="oferta.css" crc="419115427" ref="oferta"/>
+    <file name="kontakt.css" crc="4133350137" ref="kontakt"/>
+    <file name="galeria.css" crc="73598017" ref="galeria"/>
+    <file name="cennik.css" crc="4270104637" ref="cennik"/>
+    <file name="o-nas.css" crc="3905302427" ref="o-nas"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:galeria:kontakt:oferta:cennik:o-nas"/>
@@ -25,75 +25,75 @@
   </folder>
   <folder name="images">
     <file name="logo.jpg" crc="3831520490" seo="true" ref="index:galeria:kontakt:oferta:cennik:o-nas">
+      <caption webpage="la-mania---galeria" alt=""/>
       <caption webpage="o-nas" alt=""/>
       <caption webpage="oferta" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="galeria-old-backup" alt=""/>
-      <caption webpage="cennik" alt=""/>
-      <caption webpage="la-mania---kontakt" alt=""/>
       <caption webpage="la-mania---cennik" alt=""/>
-      <caption webpage="galeria" alt=""/>
+      <caption webpage="cennik" alt=""/>
+      <caption webpage="galeria-old-backup" alt=""/>
+      <caption webpage="la-mania---kontakt" alt=""/>
+      <caption webpage="la-mania---oferta" alt=""/>
       <caption webpage="szkolenia" alt=""/>
       <caption webpage="kontakt" alt=""/>
-      <caption webpage="la-mania---oferta" alt=""/>
       <caption webpage="la-mania---szkolenia" alt=""/>
-      <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="logo_bar.png" crc="44341994" seo="true" ref="index:galeria:kontakt:oferta:cennik:o-nas">
+      <caption webpage="la-mania---galeria" alt=""/>
       <caption webpage="o-nas" alt=""/>
       <caption webpage="oferta" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="galeria-old-backup" alt=""/>
-      <caption webpage="cennik" alt=""/>
-      <caption webpage="la-mania---kontakt" alt=""/>
       <caption webpage="la-mania---cennik" alt=""/>
-      <caption webpage="galeria" alt=""/>
+      <caption webpage="cennik" alt=""/>
+      <caption webpage="galeria-old-backup" alt=""/>
+      <caption webpage="la-mania---kontakt" alt=""/>
+      <caption webpage="la-mania---oferta" alt=""/>
       <caption webpage="szkolenia" alt=""/>
       <caption webpage="kontakt" alt=""/>
-      <caption webpage="la-mania---oferta" alt=""/>
       <caption webpage="la-mania---szkolenia" alt=""/>
-      <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="gabinet_czucza-crop-u4617.jpg" crc="227620398" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="galeria:index"/>
     <file name="salon_messsssdo.jpg" crc="4188695286" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="salon_poczekaa-crop-u4936.jpg" crc="4126600160" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="salon_poczekal-crop-u4956.jpg" crc="4019024875" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="ulotkaaaa_.jpg" crc="4052913613" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="gabinet_czucza242x175.jpg" crc="200136135" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="salon_messsssdo264x175.jpg" crc="3797600542" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="salon_poczekaa234x197.jpg" crc="3785099717" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="salon_poczekal234x183.jpg" crc="3982353217" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="ulotkaaaa_264x175.jpg" crc="3914288634" seo="true" ref="galeria">
-      <caption webpage="galeria" alt=""/>
       <caption webpage="la-mania---galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="galeria:index"/>
     <file name="cennik2.jpg" crc="159794967" seo="true" ref="cennik">
@@ -108,18 +108,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="kontakt" alt=""/>
       <caption webpage="o-nas" alt=""/>
+      <caption webpage="galeria" alt=""/>
       <caption webpage="cennik" alt=""/>
       <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
     </file>
     <file name="002-facebook_poster_.png" crc="3999591278" ref="index"/>
     <file name="001-instagram.svg" crc="121016822" seo="true" ref="index:galeria:cennik:kontakt:oferta:o-nas">
       <caption webpage="index" alt=""/>
       <caption webpage="kontakt" alt=""/>
       <caption webpage="o-nas" alt=""/>
+      <caption webpage="galeria" alt=""/>
       <caption webpage="cennik" alt=""/>
       <caption webpage="oferta" alt=""/>
-      <caption webpage="galeria" alt=""/>
     </file>
     <file name="001-instagram_poster_.png" crc="4279842435" ref="index"/>
     <file name="chameleon_holo_small177x190.jpg" crc="4186738912" seo="true" ref="index">
@@ -267,10 +267,10 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3984092193" seo="true" mt="1588194268507" redirect="true"/>
-  <file name="galeria.html" crc="456758098" seo="true" mt="1588194104598" redirect="true"/>
-  <file name="kontakt.html" crc="323752004" seo="true" mt="1588194313971" redirect="true"/>
-  <file name="oferta.html" crc="35273946" seo="true" mt="1588194291980" redirect="true"/>
-  <file name="cennik.html" crc="4040300280" seo="true" mt="1588194103867" redirect="true"/>
-  <file name="o-nas.html" crc="3802341149" seo="true" mt="1588194283290" redirect="true"/>
+  <file name="index.html" crc="36149106" seo="true" mt="1588194475365" redirect="true"/>
+  <file name="galeria.html" crc="3758780118" seo="true" mt="1588194475365" redirect="true"/>
+  <file name="kontakt.html" crc="3952607170" seo="true" mt="1588194475365" redirect="true"/>
+  <file name="oferta.html" crc="4242853272" seo="true" mt="1588194475365" redirect="true"/>
+  <file name="cennik.html" crc="501616918" seo="true" mt="1588194475365" redirect="true"/>
+  <file name="o-nas.html" crc="4075152673" seo="true" mt="1588194475365" redirect="true"/>
 </manifest>
